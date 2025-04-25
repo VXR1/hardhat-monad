@@ -1,0 +1,4 @@
+git clone https://github.com/monad-developers/hardhat-monad.git
+npm install
+cp .env.example .env
+npx hardhat node
